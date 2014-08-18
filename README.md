@@ -1,0 +1,2 @@
+django-mini-debug-toolbar
+=========================
